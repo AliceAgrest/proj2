@@ -1,0 +1,15 @@
+/Users/Alice/Projects/proj2/bin/Debug/net6.0/proj2
+/Users/Alice/Projects/proj2/bin/Debug/net6.0/proj2.deps.json
+/Users/Alice/Projects/proj2/bin/Debug/net6.0/proj2.runtimeconfig.json
+/Users/Alice/Projects/proj2/bin/Debug/net6.0/proj2.dll
+/Users/Alice/Projects/proj2/bin/Debug/net6.0/proj2.pdb
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.csproj.AssemblyReference.cache
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.AssemblyInfoInputs.cache
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.AssemblyInfo.cs
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.csproj.CoreCompileInputs.cache
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.dll
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/refint/proj2.dll
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.pdb
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/proj2.genruntimeconfig.cache
+/Users/Alice/Projects/proj2/obj/Debug/net6.0/ref/proj2.dll

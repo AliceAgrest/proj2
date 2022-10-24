@@ -1,10 +1,15 @@
 ﻿<Properties StartupConfiguration="{88DC537D-36BF-414B-8034-2FB55DCE0446}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="proj2" expanded="True" />
+          <Node name="proj2" expanded="True">
+            <Node name="proj2" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
