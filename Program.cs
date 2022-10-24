@@ -14,8 +14,6 @@ namespace proj2
             b2 = (rnd1 / 100) % 10;
             c2 = (rnd1 / 10) % 10;
             d2 = rnd1 % 10;
-            //Console.WriteLine("Enter  a four digit number ");
-            //num = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < 10; i++)
             {
@@ -48,7 +46,6 @@ namespace proj2
 
                 Console.WriteLine($"You have {bul} buls and {pgia} pgia ");
             }
-            //Console.WriteLine($"You have {bul} buls and {pgia} pgia ");
 
             Console.ReadLine();
         }
