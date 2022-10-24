@@ -7,7 +7,7 @@ namespace proj2
         static void Main(string[] args)
         {
             //bol pgia
-            int num, rnd1 , a ,b ,c ,d ,a2 ,b2 , c2 ,d2 , bul = 0 ,pgia = 0;
+            int num, rnd1 , a ,b ,c ,d ,a2 ,b2 , c2 ,d2;
             Random rnd = new Random();
             rnd1 = rnd.Next(1000, 10000);
             a2 = rnd1 / 1000;
@@ -17,6 +17,7 @@ namespace proj2
 
             for (int i = 0; i < 10; i++)
             {
+                int bul = 0, pgia = 0;
                 Console.WriteLine("Enter  a four digit number ");
                 num = int.Parse(Console.ReadLine());
                 a = num / 1000;
